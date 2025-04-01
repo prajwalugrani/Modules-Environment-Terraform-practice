@@ -1,0 +1,28 @@
+# Local Terraform directories
+.terraform/
+.terraform.lock.hcl
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+crash.*.log
+
+# CLI configuration files
+.terraformrc
+terraform.rc
+
+# IDE-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment-specific files
+*.tfvars
+*.tfvars.json
+
+# Lock files (if any)
+*.lock
